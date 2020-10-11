@@ -1,6 +1,6 @@
 ---
 layout: home
-title: My Research Team
+title: Team
 ---
 
 To be completed.
