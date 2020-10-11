@@ -68,6 +68,8 @@ header_pages:
  - Team.md
  - Supervisions.md
 
+google_analytics: UA-2117082-4
+
 #github:
 #  is\_project\_page:false
 
