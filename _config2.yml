@@ -1,0 +1,27 @@
+title: R. Sameni Homepage
+description: www.sameni.info
+
+show_excerpts: false # set to true to show excerpts on the homepage
+theme: minima
+google_analytics: UA-2117082-4
+github:
+  is\_project\_page:false
+
+# github:
+#  is_project_page: false
+#theme: jekyll-theme-minima
+#theme: jekyll-theme-slate
+# &nbsp # space character to get empty title 
+
+includes_dir:
+   Research/Publications
+   
+header_pages:
+ - Teaching.md
+ - Projects.md
+ - Publications.md
+ - ResearchPool.md
+ - Team.md
+ - Supervisions.md
+
+footnote_backlink: ''
