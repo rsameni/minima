@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Featured Projects
+title: Projects
 ---
 
 ***
