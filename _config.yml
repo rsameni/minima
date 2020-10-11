@@ -1,7 +1,9 @@
 title: R. Sameni Homepage
 author:
   name: Copyright 2020, Reza Sameni
-description: www.sameni.info
+  email: 
+description: > # this means to ignore newlines until "show_excerpts:"
+  www.sameni.info
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -13,7 +15,7 @@ minima:
   # generate social links in footer
   social_links:
     # twitter: jekyllrb
-    # github:  jekyll
+    github:  rsameni
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
@@ -46,8 +48,6 @@ minima:
 
 # Build settings
 theme: minima
-
-google_analytics: UA-2117082-4
 
 plugins:
  - jekyll-feed
