@@ -19,7 +19,7 @@ title: Teaching
 Click [here](https://naghdeostad.persianblog.ir/) to visit my courses weblog or to comment on a course you had with me.
 
 ### Emory University (2020-present)
-* An Introduction to Blind Source Separation and Independent Component Analysis (A lecture in the BMI 500 course)
+* An Introduction to Blind Source Separation and Independent Component Analysis [(the lecture slides and examples from the BMI 500, Lecture 11, Fall 2020)](https://github.com/rsameni/BSSLecture.git)
 
 ### Shiraz University (2008-2018)
 * Signal processing in time, frequency and space
