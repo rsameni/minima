@@ -7,8 +7,8 @@ title: Projects
 ## Biomedical Signal Processing and Modeling
 ### 1. Mathematical modeling of epidemic diseases
 
-The Simulation and Estimation of Epidemics with Algorithms (SEEPIA) research group was formed at the very first weeks of the COVID-19 pandemic, in Grenoble Alpes University, France. The group was formed from independent researchers with various backgrounds (including mathematicians, control theory experts, signal processing experts, epidemiologists, and research engineers) who volunteered to synergize their expertise in modeling and forecasting the spread of the pandemic, under social and economic constraints.
-  * Check-out my progressive technical report on this project on [arXiv](https://arxiv.org/abs/2003.11371).
+The Simulation and Estimation of Epidemics with Algorithms (SEEPIA) research group was formed at the very first weeks of the COVID-19 pandemic, in Grenoble Alpes University, France. The group was formed from independent researchers with various backgrounds (including mathematicians, control theory experts, signal processing experts, epidemiologists, and research engineers) who volunteered to synergize their expertise in modeling and forecasting the spread of the pandemic, under social and economic constraints. At Emory University, the Alphanumerics Team was one of the finalists of the [XPRIZE Pandemic Response Challenge](https://www.xprize.org/articles/pandemic-response-challenge-finalists), which addressed the problem of Pandemic forecasting and control under non-pharmaceutical interventions.
+  * Check-out our technical reports on this project, which from [modeling](https://arxiv.org/abs/2003.11371) and [prescription & control] (https://arxiv.org/abs/2102.06609) perspectives.
   * I share my relayed source codes and simulations [here](https://github.com/rsameni/EpidemicModeling).
   * The [SEEPIA](http://51.178.55.78/SEEPIA/seepia.htm) (Simulation & Estimation of EPIdemics with Algorithms) work group.
   * Check-out my [LinkedIn](https://www.linkedin.com/in/reza-sameni-8a191229/) page.
