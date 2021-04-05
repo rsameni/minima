@@ -6,7 +6,7 @@ title: Teaching
 ## Tutorials & Selected Talks
 * [Biomedical Informatics and Systems Modeling Graduate Research Expo](https://github.com/rsameni/rsameni.github.io/tree/master/Research/Presentations/GraduateResearchExpoBiomedicalInformaticsAndSystemsModeling4Aug2020.pdf), Emory University - Georgia Tech BME Departments, 4 Aug 2020.
 * [Mathematical Modeling of Epidemic Diseases; A Case Study of the COVID-19 Coronavirus](https://github.com/rsameni/rsameni.github.io/tree/master/Research/Presentations/EpidemicModelingMarApr2020.pdf), Grenoble, France, Mar-Apr 2020.
-  * [Persian Audio](https://youtu.be/Zfh2G0VpBY)
+  * [Persian Audio](https://youtu.be/_Zfh2G0VpBY)
   * [English Audio](https://youtu.be/pasyQympFGE)
 * [Methods and Technologies for Prenatal Cardiac Monitoring](https://github.com/rsameni/rsameni.github.io/tree/master/Research/Presentations/RezaSameniFetalECGLectureEmoryUniversity4Jun2019.pdf), Invited Lecture, Department of Biomedical Informatics, Emory University, 4 Jul 2019.
 * [My Lab Research Highlights](https://github.com/rsameni/rsameni.github.io/tree/master/Research/Presentations/ResearchHighlightsGipsaLabTalk22Nov2018.pdf), 22 Nov 2018.
