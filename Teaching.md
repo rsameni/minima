@@ -13,7 +13,7 @@ title: Teaching
 * [Guidelines for writing efficient MATLAB® codes](https://github.com/rsameni/TechReport-EfficientMatlabCodeTutorial), revised: Aug 2020
 
 ***
-## Tutorials
+## Lectures
 * [Methods and Technologies for Prenatal Cardiac Monitoring](https://github.com/rsameni/rsameni.github.io/tree/master/Research/Presentations/RezaSameniFetalECGLectureEmoryUniversity4Jun2019.pdf), Invited Lecture, Department of Biomedical Informatics, Emory University, 4 Jul 2019.
 * [Fetal Cardiac Signal Processing Techniques](https://github.com/rsameni/rsameni.github.io/tree/master/Research/Presentations/FetalECGLectureItalySummerSchoolJul2018.pdf), International Summer School on Technologies and Signal Processing in Perinatal Medicine, Pula, Sardinia, Italy, 2-6 Jul 2018.
 * Theory and Practice of Kalman Filters in Biomedical Engineering; Application in Fetal ECG Processing, 2nd International Summer School on Technologies and Signal Processing in Perinatal Medicine, Pula, Sardinia, Italy, 16-23 Jul 2021. Prerequisites:
